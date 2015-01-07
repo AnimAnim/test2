@@ -1,0 +1,76 @@
+Mon 03-Feb-2014 - Last updated 09-Mar-2014
+
+1. Install CD
+HOMEGROUP PASSWORD: 8ZX6zr6w2n
+Control Panel > Large Icons > Folder Options > View > Uncheck "Hide extensions"
+Mute all sounds
+Windows Classic desktop, solid color blue
+
+2. DriverPack CD DRPSu11 [Install utorrent, want old version] [Buy this?] 
+
+3. Chrome [griffithfeeney@gmail.com mi6sYrTh] [For downloadingchr applications]
+
+4. Notepad++ [Set as default to open .txt files]
+
+5. xplorer2 professional 64 bit
+Your registration key is:
+207|1.73347042|X2.1|1|06.08.13|0|Griffith_Feeney|feeney@gfeeney.com
+|boabLquxCOaFtZLI9lUyIL6akc/xgPPrgcDYP368LiIObIQ4EaYeTwHjPzCid7i4HN
+WhAPfuQK+J48v47LxA8Q==
+Your registration reference# is: X2.1-375DF6CF
+
+6. Following progams
+Git version 1.8.5.2-preview20131230
+GNUWin32
+IrfanView
+ISO Recorder
+Microsoft Office Profession Edition 2003 [from CD]
+Open Broadcaster Software
+R
+RStudio
+Skype 5.1 [gfeeney ta5cdFdv]
+SumatraPDF
+vlc-2.1.3-win32
+WinRAR 5.00 beta 8 (64-bit)
+WinSCP 5.5.1
+
+7. Drivers
+Brother HL-5170DN (network) Doesn't show in Programs and Features
+HP Officejet 4500 G510n-z
+Xerox Phaser 6500 
+
+8. Following drivers/programs
+MikTeX 2.9 (ProText)
+Stawberry Perl (64-bit)
+TextPad 6
+BEGIN LICENSE
+Griffith Feeney
+Scarsdale Solutions Inc
+01 0001
+DQ5B-99LK-B0UH-TBCI
+483da4b3 2aedf699 70991d01 a29fd8e9 dee96276 8ddb0458
+ceb24e89 a49abde7 8f7b6cfd 9fdc1a9e 1f1c611e 81daa9a3
+f9ff6e07 4dc202bf d9298db6 a29be2c1 f712d691 f6372de5
+8dd89e95 e1de641d 3452780f 6e81f1c3 fb80b134 f5d604ed
+END LICENSE
+
+
+
+21-Feb-2014: May solve my problem with single censuses
+radfordneal.wordpress.com/2008/08/20/design-flaws-in-r-2-%e2%80%94-dropped-dimensions/
+
+mapeoamano.org/en/manuals/how-to-prepare-a-high-resolution-large-format-map-using-google-earth
+
+www.digitalurban.org/2007/10/tutorial-how-to-capture-google-maps-for.html "This tutorial provides a simple method to carry out multiple screen grabs and image stitching to create high resolution output from Google Maps for such purposes."
+
+Issue: What we can get from google maps is an idea of *structures* on the ground. It may not be possible to identify them as individual dwelling units, structures containing dwelling units, perhaps multiple dwelling units, structures with mixed use, etc. Of course it cannot be determined if dwelling units are occupied.
+
+It might be possible to make a list of structures from the map. It will not be possible to make a list of dwelling units. Organizing a walkby of ever structure would be necessary to classify structures as being/containing dwelling units. Apartment buildings pose a problem. The number of dwelling units may be roughly estimated. A query to a building manager, if available, may or may not produce an accuate number. In any case, a walk by of anything but a small area may be problematic. Anything larger than a census EA might require coordinated efforts of multiple field workers.
+
+Principle is that every dwelling unit should have equal probability of selection. Pali's idea of marking off a grid and selecting grid cells, then dwelling units within these cells may be useful. Problem is that selection of grid cells should be proportional to number of included dwelling units, and we can determine this from a map.
+
+Issue of working with local immunization staff or not. Per PES methodology, not working with them avoids biases in the area they know. Probably best not. But maybe they could do legwork on walkbys. But they places they leave out are almost certainly places with lower coverage, risking upward bias in coverage estimates.
+
+Need a graduated approach, best practice, and step by step fall backs, preferably with some idea of the cost in accuracy of the resulting coverage statistic. "helped by local guides" is an invitation to bias.
+
+
